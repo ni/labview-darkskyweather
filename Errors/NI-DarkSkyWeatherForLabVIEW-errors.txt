@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+<nifamily familyname="DarkSky Weather Data for LabVIEW" displayname="Dark Sky Weather Data for LabVIEW">
+</nifamily>
+</nicomment>
+<nierror code="403640">
+You have not entered a valid Dark Sky API key. Please visit https://darksky.net/dev/ and create an account to obtain a free API key. Use the API key with this toolkit.
+</nierror>
+</nidocument>
